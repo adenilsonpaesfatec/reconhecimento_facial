@@ -1,7 +1,7 @@
 import cv2
 
 # Carrega o classificador de Haar Cascade para detecção de faces
-face_cascade = cv2.CascadeClassifier(r'C:\Users\adeni\PycharmProjects\reconhecimento_facial\.venv\haarcascade_frontalface_default.xml')
+face_cascade = cv2.CascadeClassifier(r'.\haarcascade_frontalface_default.xml')
 
 # Abre a webcam (normalmente a webcam padrão é o dispositivo 0)
 cap = cv2.VideoCapture(0)
