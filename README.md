@@ -1,7 +1,3 @@
-Aqui está uma sugestão de descrição para o seu repositório no GitHub:
-
----
-
 # Reconhecimento Facial em Tempo Real com OpenCV
 
 Este repositório contém um exemplo de código em Python que utiliza a biblioteca OpenCV para realizar reconhecimento facial em tempo real utilizando a webcam do computador. O código carrega um classificador Haar Cascade pré-treinado para detectar faces em frames capturados pela webcam, desenha retângulos ao redor das faces detectadas e exibe o resultado em uma janela redimensionável.
@@ -47,7 +43,3 @@ Este repositório contém um exemplo de código em Python que utiliza a bibliote
 ## Licença
 
 Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-Sinta-se à vontade para ajustar a descrição conforme necessário.
